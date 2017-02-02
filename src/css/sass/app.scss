@@ -1,0 +1,8 @@
+@import './bootstrap/_bootstrap';
+@import './_inventory';
+@import './_displayScreen';
+@import './_totalPrice';
+
+#orderList-main h1 {
+  text-align: center;
+}
